@@ -1,5 +1,5 @@
 <?php
-include "/config/db.php";
+include "db.php";
 
 if ( isset($_POST['chpt']) AND isset($_POST['book']) ) {
 	
